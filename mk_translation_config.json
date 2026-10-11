@@ -1,0 +1,18 @@
+{
+  "VERSION": "1.0",
+  "WHATSNEW": [
+    "Speak-and-type translation on any text box",
+    "Translate any on-screen message or option just by focusing it - spoken aloud and copied to the clipboard",
+    "100+ languages, with Search and Favorite Languages",
+    "Swap Source and Target - instantly flip the two languages",
+    "Dictionary - words or phrases that are never translated",
+    "Two separate History lists (Spoken and Screen Text), each with Favorites, Copy and Delete",
+    "Conversation Mode for face-to-face conversations",
+    "Test My Setup - a built-in mock chat to try everything safely",
+    "Start Prompt - choose Announcement + Beep or Beep Only before listening",
+    "A one-time Welcome Tour that explains everything on first use",
+    "Sound Cues (off by default), History Search, Clear All History, and Reset to Defaults",
+    "No API key ever required - internet connection only"
+  ],
+  "NOTICE": ""
+}
